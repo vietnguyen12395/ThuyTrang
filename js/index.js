@@ -116,7 +116,7 @@ var my_gradient = ctx1.createLinearGradient(0, 0, 0, 170);
 my_gradient.addColorStop(0, "gray");
 my_gradient.addColorStop(1, "white");
 ctx1.fillStyle = my_gradient;
-const text = 'Hoàn Mỹ 💙';
+const text = 'Hồng Hồng 💙';
 let textWidth = 99999999;
 
 while (textWidth > window.innerWidth) {
